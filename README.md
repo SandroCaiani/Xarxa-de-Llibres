@@ -271,6 +271,7 @@ El proyecto **Xarxa de Llibres** presenta una base sólida de análisis y diseñ
 ---
 
 **Proyecto Intermodular – Xarxa de Llibres**
-Ciclo Formativo – Documentación Técnica
+Ciclo Formativo – Documentación Técnica.
+
 Autores: Sandro Caiani, Alessandro Fattor, Alex Nat.
 
